@@ -3,13 +3,13 @@
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
-	--font: 'figtree';
+	--font: 'gg sans';
 
 	/* color of online status dot, change to #23a55a for default green */
 	--online-indicator: var(--accent-2);
 
 	/* top left text */
-	--corner-text: 'VI$U';
+	--corner-text: 'Visual';
 
 	/* home icon */
 	--moon-icon: block; /* change to none to hide moon icon */
