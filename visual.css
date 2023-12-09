@@ -501,7 +501,7 @@ button.button_afdfd9 /* small buttons */,
 	height: 65%;
 	background: var(--text-4);
 	overflow: hidden;
-	-webkit-mask-image: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_moon.svg');
+	-webkit-mask-image: url('https://static.vecteezy.com/system/resources/previews/017/392/523/non_2x/eye-outline-drawing-on-transparent-background-free-png.png');
 }
 .wrapper_d281dd:hover .childWrapper__01b9c::before {
 	transition: background-color 0.15s ease-out, transform 0.3s ease-out;
